@@ -23,5 +23,5 @@ El script realiza las siguientes acciones:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/proxmox-bindmount.git
+   git clone https://github.com/dexon18/proxmox-bindmount.git
    cd proxmox-bindmount
